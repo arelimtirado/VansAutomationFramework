@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 import unittest
 
 class VansAutomation(unittest.TestCase):
-    CHROMEDRIVER = "/Users/arelitirado/Automation/Vans/chromedriver"
+    CHROMEDRIVER = "/Users/arelitirado/Drivers/chromedriver"
     URL="https://www.vans.com/en-us"
 
     def setUp(self):
